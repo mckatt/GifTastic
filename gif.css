@@ -1,0 +1,34 @@
+body {
+	background-color: orange;
+	font-family: 'Spicy Rice', cursive;
+	color: black;
+}
+
+#buttonsView {
+
+}
+#searchButton {
+	margin-right: 5px;
+	margin-top: 10px;
+	color: white;
+	background-color: green;
+
+}
+
+.sidebar {
+	background-color: grey;
+	float: right;
+	padding: 15px;
+	border: 2px solid #ddd;
+	margin-right: 30px;
+}
+
+.btn {
+	margin-right: 5px;
+	margin-bottom: 10px;
+
+}
+
+#maincontent {
+	width: 560px;
+}
